@@ -1,4 +1,4 @@
-= Canada-3D
+= Canada-3D Info
 
 == Information resource for pan-Canadian C3D collaboration
 
