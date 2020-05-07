@@ -1,0 +1,4 @@
+= Canada-3D
+== Information resource for pan-Canadian C3D collaboration
+
+NOTE: For more information please refer to the link:https://github.com/lcnp/Canada-3D/wiki[Canada-3D wiki page]
